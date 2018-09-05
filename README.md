@@ -13,7 +13,7 @@ PC: 4000
 ## Actividad 2: Subrayar 'READY' de colores
 8 filas de píxeles de distintos colores subrayando toda la palabra de Ready (40 píxeles)
 ```
-21 43 77 22 00 C8 18 FE
+3E FF 32 70 C3 3E FF 32 71 C3 3E FF 32 72 C3 3E FF 32 73 C3 3E FF 32 74 C3 3E FF 32 75 C3 3E FF 32 76 C3 3E FF 32 77 C3 3E FF 32 78 C3 3E FF 32 79 C3 3E F0 32 71 D3 3E F0 32 72 D3 3E F0 32 73 D3 3E F0 32 74 D3 3E F0 32 75 D3 3E F0 32 76 D3 3E F0 32 70 D3 3E F0 32 70 D3 3E F0 32 70 D3 3E F0 32 77 D3 3E F0 32 78 D3 3E F0 32 79 D3 3E 0F 32 70 E3
 ```
 PC: 4000
 
